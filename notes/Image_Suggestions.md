@@ -1,6 +1,6 @@
 # Image suggestions for the 2027 Water Quality sheet
 
-The sheet is words only (5 pt, 0 margins, two sides). The 2027 rules allow the sheet "in any form and from any source", so if you give up some text you can paste small pictures. Each one below is worth roughly 1 inch x 1 inch. Listed from highest to lowest payoff.
+The sheet is words only (4 pt, 0 margins, two sides). The 2027 rules allow the sheet "in any form and from any source", so if you give up some text you can paste small pictures. Each one below is worth roughly 1 inch x 1 inch. Listed from highest to lowest payoff.
 
 ## Part I and III (diagrams)
 1. **Estuary circulation cross-sections**: salt wedge, partially mixed, well mixed, fjord with sill (and inverse). Tested on almost every invitational.
